@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7FC97DA5-9A67-40C9-950A-A59670A05238"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A056395E-2680-4DBE-AEEF-7343365526E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioProj/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A056395E-2680-4DBE-AEEF-7343365526E5 - 4a3231648fd1685a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioProj.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AudioProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/song-eun-yeol/Desktop/swift/AudioProj/AudioProj/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
+               </Location>
+               <Location
+                  uuid = "A056395E-2680-4DBE-AEEF-7343365526E5 - 4a3231648fd1685a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioProj.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "AudioProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/song-eun-yeol/Desktop/swift/AudioProj/AudioProj/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFEE2329-7D08-4773-925A-B1AD539DD8A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioProj/PlayerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
+            landmarkName = "playerControlsViewDidTapPlayPauseButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CFEE2329-7D08-4773-925A-B1AD539DD8A7 - 662aa44c6ad2b924"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioProj.PlayerViewController.playerControlsViewDidTapBackwardButton(AudioProj.PlayerControlsView) -&gt; ()"
+                  moduleName = "AudioProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/song-eun-yeol/Desktop/swift/AudioProj/AudioProj/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97">
+               </Location>
+               <Location
+                  uuid = "CFEE2329-7D08-4773-925A-B1AD539DD8A7 - ddf7a04f261d00b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioProj.PlayerViewController.playerControlsViewDidTapPlayPauseButton(AudioProj.PlayerControlsView) -&gt; ()"
+                  moduleName = "AudioProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/song-eun-yeol/Desktop/swift/AudioProj/AudioProj/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96">
+               </Location>
+               <Location
+                  uuid = "CFEE2329-7D08-4773-925A-B1AD539DD8A7 - ddf7a04f261d1ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioProj.PlayerViewController.playerControlsViewDidTapPlayPauseButton(AudioProj.PlayerControlsView) -&gt; ()"
+                  moduleName = "AudioProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/song-eun-yeol/Desktop/swift/AudioProj/AudioProj/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91">
+               </Location>
+               <Location
+                  uuid = "CFEE2329-7D08-4773-925A-B1AD539DD8A7 - ddf7a04f261d087"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioProj.PlayerViewController.playerControlsViewDidTapPlayPauseButton(AudioProj.PlayerControlsView) -&gt; ()"
+                  moduleName = "AudioProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/song-eun-yeol/Desktop/swift/AudioProj/AudioProj/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100">
+               </Location>
+               <Location
+                  uuid = "CFEE2329-7D08-4773-925A-B1AD539DD8A7 - ddf7a04f261d0a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioProj.PlayerViewController.playerControlsViewDidTapPlayPauseButton(AudioProj.PlayerControlsView) -&gt; ()"
+                  moduleName = "AudioProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/song-eun-yeol/Desktop/swift/AudioProj/AudioProj/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101">
+               </Location>
+               <Location
+                  uuid = "CFEE2329-7D08-4773-925A-B1AD539DD8A7 - ddf7a04f261df62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioProj.PlayerViewController.playerControlsViewDidTapPlayPauseButton(AudioProj.PlayerControlsView) -&gt; ()"
+                  moduleName = "AudioProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/song-eun-yeol/Desktop/swift/AudioProj/AudioProj/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103">
+               </Location>
+               <Location
+                  uuid = "CFEE2329-7D08-4773-925A-B1AD539DD8A7 - ddf7a04f261d46b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AudioProj.PlayerViewController.playerControlsViewDidTapPlayPauseButton(AudioProj.PlayerControlsView) -&gt; ()"
+                  moduleName = "AudioProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/song-eun-yeol/Desktop/swift/AudioProj/AudioProj/PlayerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A5B06D1-BD67-453F-BAB6-E5C5E669BF30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioProj/PlayerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43C95FA2-8753-4410-8111-EF84A112E8D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AudioProj/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
